@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Nooperate.cpp
+  正在生成代码...
+Nooperate.obj : error LNK2005: "int __cdecl NP::add(int,int)" (?add@NP@@YAHHH@Z) 已经在 main.obj 中定义
+Nooperate.obj : error LNK2005: "int __cdecl NP::negNum(int)" (?negNum@NP@@YAHH@Z) 已经在 main.obj 中定义
+Nooperate.obj : error LNK2005: "void __cdecl NP::test(void)" (?test@NP@@YAXXZ) 已经在 main.obj 中定义
+C:\Users\Administrator\source\repos\DataStruct\x64\Debug\DataStruct.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
