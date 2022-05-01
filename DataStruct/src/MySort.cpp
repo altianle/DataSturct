@@ -1,4 +1,4 @@
-#include"MySort.h"
+#include"head/MySort.h"
 
 MyQuickSort::MyQuickSort() {
 

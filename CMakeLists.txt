@@ -6,12 +6,12 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(DataStruct)
 
 add_executable(DataStruct
-        DataStruct/main.cpp
-        DataStruct/MyKMP.cpp
-        DataStruct/MyKMP.h
-        DataStruct/MySort.cpp
-        DataStruct/MySort.h
-        DataStruct/Nooperate.cpp
-        DataStruct/Nooperate.h
-        DataStruct/SerchOdd.cpp
-        DataStruct/SerchOdd.h)
+        DataStruct/src/main.cpp
+        DataStruct/src/MyKMP.cpp
+        DataStruct/head/MyKMP.h
+        DataStruct/src/MySort.cpp
+        DataStruct/head/MySort.h
+        DataStruct/src/Nooperate.cpp
+        DataStruct/head/Nooperate.h
+        DataStruct/src/SerchOdd.cpp
+        DataStruct/head/SerchOdd.h DataStruct/src/RoboWalk.cpp DataStruct/head/RoboWalk.h)

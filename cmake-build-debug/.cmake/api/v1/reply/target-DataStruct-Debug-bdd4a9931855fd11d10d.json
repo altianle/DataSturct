@@ -73,7 +73,8 @@
 				1,
 				3,
 				5,
-				7
+				7,
+				9
 			]
 		}
 	],
@@ -114,7 +115,8 @@
 				1,
 				3,
 				5,
-				7
+				7,
+				9
 			]
 		},
 		{
@@ -124,7 +126,8 @@
 				2,
 				4,
 				6,
-				8
+				8,
+				10
 			]
 		}
 	],
@@ -133,51 +136,62 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DataStruct/main.cpp",
+			"path" : "DataStruct/src/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DataStruct/MyKMP.cpp",
+			"path" : "DataStruct/src/MyKMP.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DataStruct/MyKMP.h",
+			"path" : "DataStruct/head/MyKMP.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DataStruct/MySort.cpp",
+			"path" : "DataStruct/src/MySort.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DataStruct/MySort.h",
+			"path" : "DataStruct/head/MySort.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DataStruct/Nooperate.cpp",
+			"path" : "DataStruct/src/Nooperate.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DataStruct/Nooperate.h",
+			"path" : "DataStruct/head/Nooperate.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "DataStruct/SerchOdd.cpp",
+			"path" : "DataStruct/src/SerchOdd.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "DataStruct/SerchOdd.h",
+			"path" : "DataStruct/head/SerchOdd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "DataStruct/src/RoboWalk.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DataStruct/head/RoboWalk.h",
 			"sourceGroupIndex" : 1
 		}
 	],

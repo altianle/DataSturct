@@ -1,4 +1,4 @@
-#include"SerchOdd.h"
+#include"head/SerchOdd.h"
 
 using namespace std;
 

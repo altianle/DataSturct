@@ -1,4 +1,4 @@
-#include"MyKMP.h"
+#include"head/MyKMP.h"
 #include<array>
 int KMP::getIndexof(string s, string m) {
 	if (s.size() < 1 || m.size() > s.size() || m.size() == 0) {
