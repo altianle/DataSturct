@@ -5,6 +5,7 @@
 #include"head/MyKMP.h"
 #include "head/Nooperate.h"
 #include "head/RoboWalk.h"
+#include "head/CoinMin.h"
 
 using namespace std;
 
@@ -37,7 +38,8 @@ int main() {
     //cout << i << endl;
 
     //nptest();
-    RoboWalk(5, 4, 4, 2);
+    //RoboWalk(5, 4, 4, 2);
+    coinMin();
     system("pause");
     return 0;
 }
