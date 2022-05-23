@@ -6,7 +6,9 @@
 #include "head/Nooperate.h"
 #include "head/RoboWalk.h"
 #include "head/CoinMin.h"
-
+#include "head/BobAlive.h"
+#include "head/ReverseList.h"
+#include "head/Myhead.h"
 using namespace std;
 
 void PrintVector(vector<int> arr) {
@@ -16,21 +18,6 @@ void PrintVector(vector<int> arr) {
 }
 
 int main() {
-    /*vector<int> testArr;
-    testArr.push_back(2);
-    testArr.push_back(3);
-    testArr.push_back(5);
-    testArr.push_back(4);
-    testArr.push_back(2);
-    testArr.push_back(3);
-    testArr.push_back(3);
-    testArr.push_back(5);
-    testArr.push_back(4);*/
-
-    //MyInsertSort myinsertsort;
-    //PrintVector(myinsertsort.pocess(testarr));
-    //int c = SerchOdd(testArr);
-    //cout << c << endl;
     //string s = "abcdefggf";
     //string m = "fggf";
     //KMP kmp;
@@ -39,7 +26,9 @@ int main() {
 
     //nptest();
     //RoboWalk(5, 4, 4, 2);
-    coinMin();
-    system("pause");
+    //coinMin();
+    //bobAlive(9, 9, 5, 5, 10);
+    //rotateTest();
+    printOrder();
     return 0;
 }
